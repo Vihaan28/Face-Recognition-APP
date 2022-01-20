@@ -1,0 +1,27 @@
+body{
+
+    background: linear-gradient(#d9ed92 0% , #184e77 100%);
+    margin: 0px;
+    text-align: center;
+}
+
+#objects{
+
+    color: black;
+    margin: 5px;
+}
+hr{
+   background-color: white;
+}
+
+.heading{
+
+    width: 700px;
+    height: 80px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 50px;
+}
+#camera {
+
+    border-style: initial;
+}
